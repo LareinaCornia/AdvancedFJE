@@ -1,0 +1,23 @@
+{
+    "icon": "icon1_root",
+    "name": "root",
+    "level": 0,
+    "children": [
+        {
+            "name": "leaf1"
+        },
+        {
+            "icon": "icon1_container",
+            "name": "container1",
+            "level": 1,
+            "children": [
+                {
+                    "name": "leaf2"
+                },
+                {
+                    "name": "leaf3"
+                }
+            ]
+        }
+    ]
+}
